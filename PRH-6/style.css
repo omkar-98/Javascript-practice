@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.main{
+    padding: 2rem;
+    
+}
+
+.Tabs{
+    display: flex;
+    gap: 2rem;
+}
+
+.tab{
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 12px 20px;
+}
+
+
+h3{
+    width: 50%;
+    font-size: 16px;
+    margin-top: 20px;
+}
